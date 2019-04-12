@@ -3,7 +3,7 @@
     ref = "release-18.09";
     rev = "34a637ca9235f44fc377a881c1e48e1e6bcf84f7";
   }) {}
-, compiler ? "ghc863"
+, compiler ? "ghc861"
 , doc ? true
 , extras ? true
 }:
